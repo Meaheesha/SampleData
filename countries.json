@@ -1,6 +1,6 @@
 [{
 	"country_id": 1,
-	"name": "Afghanistan",
+	"country_name": "Afghanistan",
 	"state_ids": [
 		1,
 		2,
@@ -11,7 +11,7 @@
 	]
 }, {
 	"country_id": 2,
-	"name": "India",
+	"country_name": "India",
 	"state_ids": [
 		7,
 		8,
@@ -20,7 +20,7 @@
 	]
 }, {
 	"country_id": 3,
-	"name": "Indonesia",
+	"country_name": "Indonesia",
 	"state_ids": [
 		11,
 		12,
